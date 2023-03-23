@@ -7,8 +7,8 @@ public class SpawnManager : MonoBehaviour
 
     public GameObject[] animalPrefabs;
 
-    private float spawnRangeX = 20.0f;
-    private float spawnRangeZ = 20.0f;
+    private float spawnRangeX = 17.0f;
+    private float spawnRangeZ = 17.0f;
 
     private float startDelay = 2.0f;
     private float spawnInterval = 1.5f;
